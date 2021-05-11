@@ -4,6 +4,8 @@ Download the Train and Test Dataset here
 
 https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge/data
 
+The main jupyter notebook code is here - many_models.ipynb
+
 Random_State is used, so each time we re-run the algorithms we get the same result
 
 ==================================================
